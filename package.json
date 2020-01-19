@@ -1,0 +1,24 @@
+{
+  "name": "electron-todo",
+  "version": "0.1.0",
+  "description": "A simple educational todo app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/electron/electron-quick-start",
+  "keywords": [
+    "Electron",
+    "tutorial",
+    "demo"
+  ],
+  "author": "ratovia",
+  "license": "MIT",
+  "devDependencies": {
+    "standard": "^12.0.1"
+  },
+  "dependencies": {
+    "electron": "^3.0.4",
+    "electron-store": "^5.1.0"
+  }
+}
